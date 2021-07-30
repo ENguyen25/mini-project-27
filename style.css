@@ -1,0 +1,10 @@
+body {
+    background-color: darkblue;
+}
+
+.search-engine {
+    background-color: lightblue;
+    width: 40%;
+    text-align: center;
+    padding-bottom: 10px;
+}
